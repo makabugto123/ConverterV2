@@ -3,3 +3,4 @@ yt-dlp
 youtube-search-python
 ffmpeg
 httpx<0.24.0
+browser-cookie3
